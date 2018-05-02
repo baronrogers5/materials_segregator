@@ -1,0 +1,16 @@
+3,5 -> first dc motor rotations
+7 -> enable dc1
+
+11, 13 -> dc2 rotations
+15 -> dc2 enable
+
+2,4 -> vcc
+
+6 -> gnd
+
+
+# servo motor
+4 -> red power vcc
+14 -> brown gnd
+12 -> servo rotations
+
